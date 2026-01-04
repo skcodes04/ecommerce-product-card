@@ -1,4 +1,4 @@
-# eCommerce Product Card
+# Ecommerce Product Card
 
 A modern and responsive eCommerce product card built using **HTML, CSS, and JavaScript**.
 Designed with smooth hover animations and a clean UI suitable for real-world online stores.
